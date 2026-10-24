@@ -1,6 +1,6 @@
 # Hola, soy Carlos Núñez 👋
 
-### Ingeniero de Sistemas · Desarrollador Full-Stack · Valledupar, Colombia 🇨🇴
+### Ingeniero de Sistemas · Desarrollador Full-Stack · Valledupar, Colombia
 
 Ingeniero de Sistemas de la Universidad Popular del Cesar, con matrícula profesional COPNIA y más de 6 años de experiencia en **desarrollo web y móvil**, **bases de datos** e **infraestructura TI**, gran parte de ella en el **sector salud**. Me gusta convertir procesos manuales en herramientas digitales simples, rápidas y confiables.
 
